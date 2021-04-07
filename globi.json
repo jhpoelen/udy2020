@@ -2,6 +2,7 @@
   "@context" : [ "http://www.w3.org/ns/csvw", {
     "@language" : "en"
   } ],
+  "deprecated" : true,
   "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
   "tables" : [ {
     "@context" : [ "http://www.w3.org/ns/csvw", {
